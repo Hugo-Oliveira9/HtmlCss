@@ -1,0 +1,30 @@
+.body{
+ margin: 50px;
+}
+.container{
+    display: flex;
+    background-color: gray;
+    align-items: center;
+    margin: 50px;
+    gap: 50px;
+    justify-content: space-between;
+    padding-right: 250px;
+    padding-left: 150px;
+    padding-top: 25px;
+    padding-bottom: 250px;
+    border: 2px;
+    border-color: solid#fff;
+    
+}
+.Photo{
+    width: 80%;
+    border: 15%;
+    border-radius: 13%;
+    
+}
+label{
+    color: white;
+}
+input , button{
+    border: 1px;
+}
