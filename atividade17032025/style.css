@@ -1,7 +1,7 @@
 .body{
  margin: 50px;
 }
-.container{
+.container {
     display: flex;
     background-color: gray;
     align-items: center;
@@ -12,9 +12,7 @@
     padding-left: 150px;
     padding-top: 25px;
     padding-bottom: 250px;
-    border: 2px;
-    border-color: solid#fff;
-    
+    border: 2px solid #fff;
 }
 .Photo{
     width: 80%;
